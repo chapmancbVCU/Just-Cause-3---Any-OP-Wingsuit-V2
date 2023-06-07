@@ -249,7 +249,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:11:58.8167069</RealTime>
+          <RealTime>00:11:58.8167060</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -941,7 +941,7 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Machine Gun Training Course + Restart</Name>
+      <Name>Machine Gun Training Course</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
