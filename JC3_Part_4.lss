@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Just Cause 3 Part 4</GameName>
+  <CategoryName>Any% + OP Wingsuit v2</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/15/2022 00:33:21" isStartedSynced="False" ended="06/16/2022 01:17:28" isEndedSynced="True">
+      <PauseTime>21:53:38.9590000</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="06/18/2022 17:31:53" isStartedSynced="False" ended="06/18/2022 18:10:47" isEndedSynced="False">
+      <PauseTime>00:19:17.7900000</PauseTime>
+    </Attempt>
+    <Attempt id="3" started="06/18/2022 20:46:15" isStartedSynced="False" ended="06/19/2022 19:40:48" isEndedSynced="False">
+      <RealTime>06:29:55.0550000</RealTime>
+      <PauseTime>16:24:47.5840000</PauseTime>
+    </Attempt>
+    <Attempt id="4" started="06/24/2022 21:45:33" isStartedSynced="True" ended="06/25/2022 01:17:13" isEndedSynced="True">
+      <PauseTime>00:42:26.1050000</PauseTime>
+    </Attempt>
+    <Attempt id="5" started="06/27/2022 01:19:47" isStartedSynced="True" ended="06/30/2022 01:37:28" isEndedSynced="True">
+      <RealTime>05:22:12.9830000</RealTime>
+      <PauseTime>2.18:55:35.8980000</PauseTime>
+    </Attempt>
+    <Attempt id="6" started="07/23/2022 18:12:57" isStartedSynced="False" ended="07/23/2022 18:20:26" isEndedSynced="False">
+      <PauseTime>00:00:01.4080000</PauseTime>
+    </Attempt>
+    <Attempt id="7" started="07/23/2022 18:36:39" isStartedSynced="False" ended="07/23/2022 21:50:23" isEndedSynced="True">
+      <PauseTime>00:42:20.5780000</PauseTime>
+    </Attempt>
+    <Attempt id="8" started="07/23/2022 23:25:30" isStartedSynced="False" ended="07/23/2022 23:26:18" isEndedSynced="False">
+      <PauseTime>00:00:00.4830000</PauseTime>
+    </Attempt>
+    <Attempt id="9" started="07/23/2022 23:27:16" isStartedSynced="False" ended="07/23/2022 23:29:03" isEndedSynced="False">
+      <PauseTime>00:00:00.9000000</PauseTime>
+    </Attempt>
+    <Attempt id="10" started="07/24/2022 23:33:20" isStartedSynced="False" ended="07/26/2022 22:36:49" isEndedSynced="False">
+      <PauseTime>1.19:41:40.8109990</PauseTime>
+    </Attempt>
+    <Attempt id="11" started="07/26/2022 23:18:53" isStartedSynced="False" ended="07/26/2022 23:54:28" isEndedSynced="False">
+      <PauseTime>00:02:05.0590000</PauseTime>
+    </Attempt>
+    <Attempt id="12" started="07/27/2022 23:31:24" isStartedSynced="False" ended="07/27/2022 23:48:40" isEndedSynced="False" />
+    <Attempt id="13" started="07/29/2022 23:54:50" isStartedSynced="False" ended="07/30/2022 00:29:56" isEndedSynced="False" />
+    <Attempt id="14" started="07/31/2022 19:14:56" isStartedSynced="False" ended="08/01/2022 22:04:02" isEndedSynced="True">
+      <PauseTime>1.00:48:24.4570000</PauseTime>
+    </Attempt>
+    <Attempt id="15" started="08/19/2022 19:39:43" isStartedSynced="False" ended="08/20/2022 00:14:25" isEndedSynced="False">
+      <RealTime>04:34:42.4540000</RealTime>
+    </Attempt>
+    <Attempt id="16" started="10/22/2022 23:59:58" isStartedSynced="False" ended="10/23/2022 18:13:10" isEndedSynced="True">
+      <RealTime>04:13:47.1050000</RealTime>
+      <PauseTime>13:59:24.9410000</PauseTime>
+    </Attempt>
+    <Attempt id="17" started="11/22/2022 23:16:42" isStartedSynced="True" ended="11/23/2022 01:31:27" isEndedSynced="True">
+      <PauseTime>02:14:40.9426770</PauseTime>
+    </Attempt>
+    <Attempt id="18" started="12/03/2022 01:04:49" isStartedSynced="False" ended="12/03/2022 01:26:21" isEndedSynced="False" />
+    <Attempt id="19" started="12/03/2022 01:26:52" isStartedSynced="False" ended="12/03/2022 01:42:02" isEndedSynced="False" />
+    <Attempt id="20" started="12/18/2022 18:17:24" isStartedSynced="True" ended="12/18/2022 18:27:32" isEndedSynced="True">
+      <PauseTime>00:00:16.3479700</PauseTime>
+    </Attempt>
+    <Attempt id="21" started="12/18/2022 21:10:04" isStartedSynced="True" ended="12/18/2022 21:12:26" isEndedSynced="True">
+      <PauseTime>00:00:01.6084750</PauseTime>
+    </Attempt>
+    <Attempt id="22" started="03/04/2023 20:54:15" isStartedSynced="True" ended="03/04/2023 20:54:16" isEndedSynced="True" />
+    <Attempt id="23" started="03/04/2023 20:55:19" isStartedSynced="True" ended="03/04/2023 21:24:20" isEndedSynced="True">
+      <PauseTime>00:00:17.5853960</PauseTime>
+    </Attempt>
+    <Attempt id="24" started="03/18/2023 00:29:05" isStartedSynced="True" ended="03/18/2023 00:30:20" isEndedSynced="True">
+      <PauseTime>00:00:01.4746720</PauseTime>
+    </Attempt>
+    <Attempt id="25" started="03/18/2023 00:30:27" isStartedSynced="True" ended="03/18/2023 00:30:31" isEndedSynced="True" />
+    <Attempt id="26" started="03/18/2023 00:31:27" isStartedSynced="True" ended="03/18/2023 00:38:22" isEndedSynced="True" />
+    <Attempt id="27" started="03/18/2023 00:38:59" isStartedSynced="True" ended="03/18/2023 04:30:52" isEndedSynced="True">
+      <RealTime>03:51:52.9211690</RealTime>
+    </Attempt>
+    <Attempt id="28" started="05/31/2023 01:17:33" isStartedSynced="True" ended="05/31/2023 01:19:45" isEndedSynced="True">
+      <PauseTime>00:00:01.7484230</PauseTime>
+    </Attempt>
+    <Attempt id="29" started="05/31/2023 01:20:18" isStartedSynced="True" ended="05/31/2023 01:23:03" isEndedSynced="True" />
+    <Attempt id="30" started="05/31/2023 01:23:28" isStartedSynced="True" ended="05/31/2023 01:45:12" isEndedSynced="True">
+      <PauseTime>00:00:27.6314370</PauseTime>
+    </Attempt>
+    <Attempt id="31" started="05/31/2023 22:09:21" isStartedSynced="True" ended="05/31/2023 22:24:53" isEndedSynced="True" />
+    <Attempt id="32" started="05/31/2023 23:22:56" isStartedSynced="True" ended="05/31/2023 23:32:07" isEndedSynced="True" />
+    <Attempt id="33" started="05/31/2023 23:35:25" isStartedSynced="True" ended="06/01/2023 00:29:38" isEndedSynced="True" />
+    <Attempt id="34" started="06/05/2023 21:31:53" isStartedSynced="True" ended="06/05/2023 23:34:14" isEndedSynced="True">
+      <PauseTime>00:23:26.3759180</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>An Act of Piracy</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Three's Company</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Cinta</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Massos I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Corda Dracon: Centcom</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Massos V</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Massos IV</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Capite III</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Vico Spigola</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Massos III</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>A Long Dangerous</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Soliana</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Espia Alta</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Vinialetta</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Liberate Vico Thunno</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
