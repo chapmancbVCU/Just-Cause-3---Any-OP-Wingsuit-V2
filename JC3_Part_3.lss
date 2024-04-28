@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Just Cause 3 Part 3</GameName>
+  <GameName>Just Cause 3 Part 4</GameName>
   <CategoryName>Any% + OP Wingsuit v2</CategoryName>
   <LayoutPath>
   </LayoutPath>
@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>2</AttemptCount>
+  <AttemptCount>3</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/15/2022 00:33:21" isStartedSynced="False" ended="06/16/2022 01:17:28" isEndedSynced="True">
       <PauseTime>21:53:38.9590000</PauseTime>
@@ -99,114 +99,338 @@
     <Attempt id="34" started="06/05/2023 21:31:53" isStartedSynced="True" ended="06/05/2023 23:34:14" isEndedSynced="True">
       <PauseTime>00:23:26.3759180</PauseTime>
     </Attempt>
-    <Attempt id="35" started="06/11/2023 16:49:40" isStartedSynced="True" ended="06/11/2023 17:05:31" isEndedSynced="True">
-      <RealTime>00:15:51.6746650</RealTime>
+    <Attempt id="35" started="06/11/2023 14:42:31" isStartedSynced="True" ended="06/11/2023 15:36:27" isEndedSynced="True">
+      <RealTime>00:50:16.5334189</RealTime>
+      <PauseTime>00:03:39.3295088</PauseTime>
     </Attempt>
-    <Attempt id="36" started="06/11/2023 17:10:50" isStartedSynced="True" ended="06/11/2023 17:24:28" isEndedSynced="True">
-      <RealTime>00:13:38.0867456</RealTime>
+    <Attempt id="36" started="06/11/2023 15:44:56" isStartedSynced="True" ended="06/11/2023 16:27:26" isEndedSynced="True">
+      <RealTime>00:41:34.3026346</RealTime>
+      <PauseTime>00:00:56.2808075</PauseTime>
     </Attempt>
+    <Attempt id="37" started="04/28/2024 21:39:50" isStartedSynced="True" ended="04/28/2024 21:39:53" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Liberate Guardia Massos II</Name>
       <Icon />
       <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="35" />
+        <Time id="36" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Connect The Dots</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="35" />
+        <Time id="36" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>An Act of Piracy</Name>
+      <Icon />
+      <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:03:53.4536703</RealTime>
+          <RealTime>00:03:45.4253786</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:53.4536703</RealTime>
+        <RealTime>00:03:45.4253786</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="35">
-          <RealTime>00:04:22.7744600</RealTime>
+          <RealTime>00:04:00.1270314</RealTime>
         </Time>
         <Time id="36">
-          <RealTime>00:03:53.4536703</RealTime>
+          <RealTime>00:03:45.4253786</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Connect the Dots</Name>
+      <Name>Liberate Guardia Massos I</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:08:34.7355358</RealTime>
+          <RealTime>00:05:03.1115576</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:41.2818655</RealTime>
+        <RealTime>00:00:32.4393063</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="35">
-          <RealTime>00:05:03.9116810</RealTime>
+          <RealTime>00:00:32.4393063</RealTime>
         </Time>
         <Time id="36">
-          <RealTime>00:04:41.2818655</RealTime>
+          <RealTime>00:01:17.6861790</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Shotgun Training Course</Name>
+      <Name>Three's Company</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:09:59.0490854</RealTime>
+          <RealTime>00:15:37.6923258</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:24.3135496</RealTime>
+        <RealTime>00:10:34.5807682</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="35">
-          <RealTime>00:02:45.3237900</RealTime>
+          <RealTime>00:12:27.5960011</RealTime>
         </Time>
         <Time id="36">
-          <RealTime>00:01:24.3135496</RealTime>
+          <RealTime>00:10:34.5807682</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Handgun Training Course</Name>
+      <Name>Liberate Cinta</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:11:57.4325467</RealTime>
+          <RealTime>00:15:52.6438582</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:57.4589580</RealTime>
+        <RealTime>00:00:14.9515324</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="35">
-          <RealTime>00:01:57.4589580</RealTime>
-        </Time>
-        <Time id="0">
-          <RealTime>00:01:57.4589590</RealTime>
+          <RealTime>00:02:03.2192210</RealTime>
         </Time>
         <Time id="36">
-          <RealTime>00:01:58.3834613</RealTime>
+          <RealTime>00:00:14.9515324</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Machine Gun Training Course</Name>
+      <Name>Liberate Corda Dracon: Centcom</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:13:38.0867456</RealTime>
+          <RealTime>00:20:27.0999571</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:40.6541989</RealTime>
+        <RealTime>00:04:34.4560989</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="35">
-          <RealTime>00:01:42.2057750</RealTime>
+          <RealTime>00:05:54.0508676</RealTime>
         </Time>
         <Time id="36">
-          <RealTime>00:01:40.6541989</RealTime>
+          <RealTime>00:04:34.4560989</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Massos V</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:52.1665262</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:25.0665691</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:01:34.2033437</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:00:25.0665691</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Capite III</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:21:13.8468100</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:21.6802838</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:01:18.5645942</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:00:21.6802838</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Vico Spigola</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:21:50.2627971</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:21.6296688</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:00:21.6296688</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:00:36.4159871</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Massos IV</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:22:12.8656670</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:17.2694450</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:00:17.2694450</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:00:22.6028699</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Guardia Massos III</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:27:59.2753984</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:46.4097314</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:07:02.5833716</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:05:46.4097314</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>A Long Dangerous</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:51.9578020</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:09.7007625</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:05:09.7007625</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:06:52.6824036</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Soliana</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:00.9013308</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:08.9435288</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:01:44.9200283</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:00:08.9435288</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Espia Alta</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:52.1903574</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:51.2890266</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:04:56.0882080</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:03:51.2890266</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Vinialetta</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:32.6354494</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:40.4450920</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:01:46.7040971</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:01:40.4450920</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Liberate Vico Thunno</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:41:34.3026346</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:01.6671852</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="35">
+          <RealTime>00:01:07.4374723</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:01:01.6671852</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

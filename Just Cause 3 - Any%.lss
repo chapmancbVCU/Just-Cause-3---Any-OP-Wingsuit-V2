@@ -632,11 +632,49 @@
       </SegmentHistory>
     </Segment>
     <Segment>
+      <Name>Helicopter Frenzy 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:10.1622082</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:05.6042750</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>00:01:09.4465040</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:02:20.2915940</RealTime>
+        </Time>
+        <Time id="33">
+          <RealTime>00:01:20.3209310</RealTime>
+        </Time>
+        <Time id="34">
+          <RealTime>00:01:09.4465030</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:01:15.2467930</RealTime>
+        </Time>
+        <Time id="36">
+          <RealTime>00:01:05.6042750</RealTime>
+        </Time>
+        <Time id="43">
+          <RealTime>00:01:09.4108804</RealTime>
+        </Time>
+        <Time id="46">
+          <RealTime>00:01:06.9657980</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
       <Name>Liberate Falco Maxime</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:27:59.4230242</RealTime>
+          <RealTime>00:29:08.8339046</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -677,7 +715,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:29:03.3894265</RealTime>
+          <RealTime>00:30:12.8003069</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -715,7 +753,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:31:58.1801043</RealTime>
+          <RealTime>00:33:07.5909847</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -756,7 +794,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:37:57.8921207</RealTime>
+          <RealTime>00:39:07.3030011</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -783,44 +821,6 @@
         </Time>
         <Time id="46">
           <RealTime>00:04:50.8324836</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Helicopter Frenzy 1</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:39:07.3030011</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:05.6042750</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-2">
-          <RealTime>00:01:09.4465040</RealTime>
-        </Time>
-        <Time id="27">
-          <RealTime>00:02:20.2915940</RealTime>
-        </Time>
-        <Time id="33">
-          <RealTime>00:01:20.3209310</RealTime>
-        </Time>
-        <Time id="34">
-          <RealTime>00:01:09.4465030</RealTime>
-        </Time>
-        <Time id="35">
-          <RealTime>00:01:15.2467930</RealTime>
-        </Time>
-        <Time id="36">
-          <RealTime>00:01:05.6042750</RealTime>
-        </Time>
-        <Time id="43">
-          <RealTime>00:01:09.4108804</RealTime>
-        </Time>
-        <Time id="46">
-          <RealTime>00:01:06.9657980</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
